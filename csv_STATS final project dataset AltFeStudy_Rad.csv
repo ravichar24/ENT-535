@@ -1,4 +1,4 @@
-﻿Sample ID,Species,Replication,FeSource,FeRate (ppm),Fe(mg/kg DW)
+﻿Sample ID,Species,Replication,FeSource,FeRate(ppm),Fe(mg/kg DW)
 1,Radish,1,Control,0,93
 2,Radish,1,Ferric Sulf,15,134
 3,Radish,1,Ferric Sulf,30,142
