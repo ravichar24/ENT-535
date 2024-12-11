@@ -1,0 +1,49 @@
+﻿Sample ID,Species,Replication,FeSource,FeRate (ppm),Fe(mg/kg DW)
+1,Radish,1,Control,0,93
+2,Radish,1,Ferric Sulf,15,134
+3,Radish,1,Ferric Sulf,30,142
+4,Radish,1,Ferric Sulf,45,197
+5,Radish,1,Iron Sulf,15,188
+6,Radish,1,Iron Sulf,30,169
+7,Radish,1,Iron Sulf,45,439
+8,Radish,1,Fe-EDTA,15,226
+9,Radish,1,Fe-EDTA,30,362
+10,Radish,1,Fe-EDTA,45,398
+11,Radish,1,Fe-EDDHA,15,138
+12,Radish,1,Fe-EDDHA,30,178
+13,Radish,1,Fe-EDDHA,45,251
+14,Radish,1,Fe-NP,15,106
+15,Radish,1,Fe-NP,30,208
+16,Radish,1,Fe-NP,45,146
+17,Radish,2,Control,0,78
+18,Radish,2,Ferric Sulf,15,115
+19,Radish,2,Ferric Sulf,30,219
+20,Radish,2,Ferric Sulf,45,147
+21,Radish,2,Iron Sulf,15,127
+22,Radish,2,Iron Sulf,30,485
+23,Radish,2,Iron Sulf,45,204
+24,Radish,2,Fe-EDTA,15,287
+25,Radish,2,Fe-EDTA,30,442
+26,Radish,2,Fe-EDTA,45,357
+27,Radish,2,Fe-EDDHA,15,165
+28,Radish,2,Fe-EDDHA,30,204
+29,Radish,2,Fe-EDDHA,45,377
+30,Radish,2,Fe-NP,15,140
+31,Radish,2,Fe-NP,30,126
+32,Radish,2,Fe-NP,45,117
+33,Radish,3,Control,0,83
+34,Radish,3,Ferric Sulf,15,149
+35,Radish,3,Ferric Sulf,30,198
+36,Radish,3,Ferric Sulf,45,138
+37,Radish,3,Iron Sulf,15,119
+38,Radish,3,Iron Sulf,30,139
+39,Radish,3,Iron Sulf,45,235
+40,Radish,3,Fe-EDTA,15,231
+41,Radish,3,Fe-EDTA,30,362
+42,Radish,3,Fe-EDTA,45,579
+43,Radish,3,Fe-EDDHA,15,183
+44,Radish,3,Fe-EDDHA,30,168
+45,Radish,3,Fe-EDDHA,45,303
+46,Radish,3,Fe-NP,15,110
+47,Radish,3,Fe-NP,30,109
+48,Radish,3,Fe-NP,45,147
